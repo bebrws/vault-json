@@ -1,0 +1,1 @@
+A hack to recursively dump JSON data from vault using Vault CLI and NodeJS
